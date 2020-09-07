@@ -1,12 +1,12 @@
 {
-  "key": "example",
-  "symbol": "EXAMPLE",
-  "name": "Example",
+  "key": "yfii",
+  "symbol": "YFII",
+  "name": "YFII Finance",
   "defaultView": "core",
-  "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-  "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+  "token": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
   "core": [
-    "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7"
+    "0xC0dEC1D3954820EAEDB1414FEE8034Cd16436Ad4"
   ],
   "min": 0,
   "invalid": []
